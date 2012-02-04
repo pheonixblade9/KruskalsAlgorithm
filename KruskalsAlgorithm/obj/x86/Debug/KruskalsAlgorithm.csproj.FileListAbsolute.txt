@@ -1,0 +1,5 @@
+C:\Users\Cody_Laptop\Desktop\Projects\KruskalsAlgorithm\KruskalsAlgorithm\bin\Debug\KruskalsAlgorithm.exe
+C:\Users\Cody_Laptop\Desktop\Projects\KruskalsAlgorithm\KruskalsAlgorithm\bin\Debug\KruskalsAlgorithm.pdb
+C:\Users\Cody_Laptop\Desktop\Projects\KruskalsAlgorithm\KruskalsAlgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody_Laptop\Desktop\Projects\KruskalsAlgorithm\KruskalsAlgorithm\obj\x86\Debug\KruskalsAlgorithm.exe
+C:\Users\Cody_Laptop\Desktop\Projects\KruskalsAlgorithm\KruskalsAlgorithm\obj\x86\Debug\KruskalsAlgorithm.pdb

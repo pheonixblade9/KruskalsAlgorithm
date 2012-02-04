@@ -1,0 +1,24 @@
+edge node 0: Washington
+edge node 1: Baltimore
+ cost:39
+edge node 0: Philadelphia
+edge node 1: New York
+ cost:92
+edge node 0: Philadelphia
+edge node 1: Baltimore
+ cost:97
+edge node 0: Pittsburgh
+edge node 1: Cleveland
+ cost:125
+edge node 0: Detroit
+edge node 1: Detroit
+ cost:167
+edge node 0: Cleveland
+edge node 1: Buffalo
+ cost:186
+edge node 0: Pittsburgh
+edge node 1: Baltimore
+ cost:230
+edge node 0: Cleveland
+edge node 1: Cincinatti
+ cost:244
